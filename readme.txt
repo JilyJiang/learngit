@@ -5,3 +5,4 @@ Git  tracks  of change file.
 git create branch  is quick and simple.
 tets for merge	
 tets for merge --no--ff.
+github branch  by  you local branch if you push  it.
